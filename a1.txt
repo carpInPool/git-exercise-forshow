@@ -1,1 +1,2 @@
 lyx_exercise
+lyx_test_2
